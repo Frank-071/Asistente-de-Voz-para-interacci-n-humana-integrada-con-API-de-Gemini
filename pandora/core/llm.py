@@ -1,4 +1,5 @@
 import google.genai as genai
+import os
 from core.config import load_config
 from datetime import datetime
 
@@ -6,7 +7,7 @@ _cfg = load_config("config.yml")
 
 # Opción A: Inicialización global (si quieres mantenerla fuera)
 # Asegúrate de que el nombre coincida exactamente con tu config.yml
-api_key = _cfg["google_ai"]["api_key"]
+api_key = os.getenv("GOOGLE_API_KEY")
 client = genai.Client(api_key=api_key)
 
 def ask_llm(text: str) -> str:

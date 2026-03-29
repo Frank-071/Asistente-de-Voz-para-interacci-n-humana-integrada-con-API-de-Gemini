@@ -3,3 +3,6 @@ pyttsx3
 pyaudio      # en Windows instala con pipwin
 PyYAML
 openai>=1.0.0
+google-genai
+joblib
+dotenv

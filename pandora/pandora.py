@@ -1,4 +1,8 @@
 import sys
+import os                           # <--- 1. Importamos os
+from dotenv import load_dotenv      # <--- 2. Importamos dotenv
+
+load_dotenv()
 from core.config import load_config
 from core.assistant import Assistant
 from core.llm import ask_llm  # <--- Importamos tu nuevo cerebro
