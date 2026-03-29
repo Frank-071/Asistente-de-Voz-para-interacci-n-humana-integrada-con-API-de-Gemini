@@ -1,0 +1,163 @@
+{"text":"qué hora es","intent":"hora"}
+{"text":"dime la hora","intent":"hora"}
+{"text":"hora porfa","intent":"hora"}
+{"text":"Lila, la hora","intent":"hora"}
+{"text":"¿me dices la hora?","intent":"hora"}
+{"text":"qué hora tienes","intent":"hora"}
+{"text":"hora actual","intent":"hora"}
+{"text":"¿qué hora será?","intent":"hora"}
+{"text":"hora exacta","intent":"hora"}
+{"text":"la hora, por favor","intent":"hora"}
+{"text":"qué hora es ahorita","intent":"hora"}
+{"text":"hora exactita","intent":"hora"}
+{"text":"Lila qué hora es","intent":"hora"}
+{"text":"dime la hora actual","intent":"hora"}
+{"text":"¿me indicas la hora?","intent":"hora"}
+{"text":"qué hora marca","intent":"hora"}
+{"text":"revisa la hora","intent":"hora"}
+{"text":"hora por favor","intent":"hora"}
+{"text":"hora exacta porfa","intent":"hora"}
+{"text":"qué hora tenemos","intent":"hora"}
+{"text":"qué hora es pe","intent":"hora"}
+{"text":"qué hora es ahora mismo","intent":"hora"}
+{"text":"a qué hora estamos","intent":"hora"}
+{"text":"hora actual porfa","intent":"hora"}
+{"text":"Lila dame la hora","intent":"hora"}
+{"text":"me dices la hora exacta","intent":"hora"}
+{"text":"la hora ahorita","intent":"hora"}
+{"text":"¿qué hora marca el reloj?","intent":"hora"}
+{"text":"quiero saber la hora","intent":"hora"}
+{"text":"hora, hora","intent":"hora"}
+
+{"text":"abre youtube","intent":"abrir"}
+{"text":"Lila abre YouTube","intent":"abrir"}
+{"text":"yutube porfa","intent":"abrir"}
+{"text":"abre el youtube","intent":"abrir"}
+{"text":"pon videos en youtube","intent":"abrir"}
+
+{"text":"abre chrome","intent":"abrir"}
+{"text":"abre google chrome","intent":"abrir"}
+{"text":"abre el navegador","intent":"abrir"}
+{"text":"Lila, chrome","intent":"abrir"}
+{"text":"abre gugle","intent":"abrir"}
+
+{"text":"abre spotify","intent":"abrir"}
+{"text":"pon música en spotify","intent":"abrir"}
+{"text":"abre el spotify","intent":"abrir"}
+{"text":"Lila, Spotify porfa","intent":"abrir"}
+{"text":"abre spoty","intent":"abrir"}
+
+{"text":"abre whatsapp","intent":"abrir"}
+{"text":"abre el guasap","intent":"abrir"}
+{"text":"Lila abre WhatsApp","intent":"abrir"}
+{"text":"quiero abrir whatsapp","intent":"abrir"}
+{"text":"abre wasap","intent":"abrir"}
+
+{"text":"abre gmail","intent":"abrir"}
+{"text":"Lila, abre el gmail","intent":"abrir"}
+{"text":"quiero mi correo gmail","intent":"abrir"}
+{"text":"abre el correo de google","intent":"abrir"}
+{"text":"abre gemail","intent":"abrir"}
+
+{"text":"abre calculadora","intent":"abrir"}
+{"text":"Lila abre la calculadora","intent":"abrir"}
+{"text":"saca la calculadora","intent":"abrir"}
+{"text":"abre calc","intent":"abrir"}
+
+{"text":"abre word","intent":"abrir"}
+{"text":"abre microsoft word","intent":"abrir"}
+{"text":"abre el procesador de textos","intent":"abrir"}
+{"text":"Lila, word","intent":"abrir"}
+
+{"text":"abre excel","intent":"abrir"}
+{"text":"abre microsoft excel","intent":"abrir"}
+{"text":"abre la hoja de cálculo","intent":"abrir"}
+{"text":"Lila, excel","intent":"abrir"}
+
+{"text":"abre powerpoint","intent":"abrir"}
+{"text":"abre microsoft powerpoint","intent":"abrir"}
+{"text":"abre la presentación","intent":"abrir"}
+{"text":"presentaciones de power point","intent":"abrir"}
+
+{"text":"abre bloc de notas","intent":"abrir"}
+{"text":"abre notepad","intent":"abrir"}
+{"text":"Lila, abre el bloc","intent":"abrir"}
+{"text":"abre el editor de texto simple","intent":"abrir"}
+
+{"text":"abre visual studio code","intent":"abrir"}
+{"text":"abre vscode","intent":"abrir"}
+{"text":"Lila, abre code","intent":"abrir"}
+{"text":"abre el editor de código","intent":"abrir"}
+
+{"text":"abre telegram","intent":"abrir"}
+{"text":"abre el telegram","intent":"abrir"}
+{"text":"Lila, telegram","intent":"abrir"}
+{"text":"abre telegran","intent":"abrir"}
+
+{"text":"abre facebook","intent":"abrir"}
+{"text":"abre el feis","intent":"abrir"}
+{"text":"Lila abre Facebook","intent":"abrir"}
+{"text":"abre la app de facebook","intent":"abrir"}
+
+{"text":"abre tiktok","intent":"abrir"}
+{"text":"Lila abre tik tok","intent":"abrir"}
+{"text":"abre el tiktok","intent":"abrir"}
+{"text":"abre tik-tok","intent":"abrir"}
+
+{"text":"abre steam","intent":"abrir"}
+{"text":"Lila, abre Steam","intent":"abrir"}
+{"text":"quiero abrir steam","intent":"abrir"}
+{"text":"abre la tienda de steam","intent":"abrir"}
+
+{"text":"busca gatitos","intent":"buscar"}
+{"text":"búscame noticias de Perú","intent":"buscar"}
+{"text":"busca clima en Lima","intent":"buscar"}
+{"text":"busca el significado de resiliencia","intent":"buscar"}
+{"text":"googlea precio del dólar","intent":"buscar"}
+{"text":"Lila, busca tutorial de Python","intent":"buscar"}
+{"text":"investiga recetas de ají de gallina","intent":"buscar"}
+{"text":"busca cómo hacer un CV","intent":"buscar"}
+{"text":"busca restaurantes cerca","intent":"buscar"}
+{"text":"búscame videos de Salsa","intent":"buscar"}
+{"text":"busca horarios del metropolitano","intent":"buscar"}
+{"text":"busca resultados de la U","intent":"buscar"}
+{"text":"busca noticias de tecnología","intent":"buscar"}
+{"text":"googlea ChatGPT","intent":"buscar"}
+{"text":"busca imágenes de alpacas","intent":"buscar"}
+{"text":"busca significado de 'serendipia'","intent":"buscar"}
+{"text":"investiga feriados 2025","intent":"buscar"}
+{"text":"busca tips para estudiar","intent":"buscar"}
+{"text":"busca un mapa de cusco","intent":"buscar"}
+{"text":"Lila, busca el tráfico en Javier Prado","intent":"buscar"}
+{"text":"busca resultados de Alianza","intent":"buscar"}
+{"text":"busca noticias de economía","intent":"buscar"}
+{"text":"búscame vuelos baratos a Arequipa","intent":"buscar"}
+{"text":"busca pronóstico del tiempo","intent":"buscar"}
+{"text":"busca definiciones de IA","intent":"buscar"}
+{"text":"googlea cómo formatear en Word","intent":"buscar"}
+{"text":"busca tutorial git reset","intent":"buscar"}
+{"text":"busca canciones de Bad Bunny","intent":"buscar"}
+{"text":"busca descargar VSCode","intent":"buscar"}
+{"text":"investiga comandos de docker","intent":"buscar"}
+{"text":"busca últimas noticias","intent":"buscar"}
+{"text":"busca openai en español","intent":"buscar"}
+{"text":"googlea cómo cocinar arroz","intent":"buscar"}
+{"text":"busca entrenar modelos en spark","intent":"buscar"}
+{"text":"busca trailers de películas","intent":"buscar"}
+
+{"text":"hola","intent":"smalltalk"}
+{"text":"hola Lila","intent":"smalltalk"}
+{"text":"buenos días","intent":"smalltalk"}
+{"text":"buenas tardes","intent":"smalltalk"}
+{"text":"buenas noches","intent":"smalltalk"}
+{"text":"¿cómo estás?","intent":"smalltalk"}
+{"text":"gracias","intent":"smalltalk"}
+{"text":"muchas gracias Lila","intent":"smalltalk"}
+{"text":"cuéntame un chiste","intent":"smalltalk"}
+{"text":"qué puedes hacer","intent":"smalltalk"}
+
+{"text":"salir","intent":"salir"}
+{"text":"termina","intent":"salir"}
+{"text":"apágate","intent":"salir"}
+{"text":"cerrar asistente","intent":"salir"}
+{"text":"Lila, salir","intent":"salir"}

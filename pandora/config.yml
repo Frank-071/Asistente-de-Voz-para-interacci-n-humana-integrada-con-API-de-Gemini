@@ -1,0 +1,28 @@
+assistant_name: "Pandora"
+wake_words: ["pandora", "hey pandora"]
+locale: "es-PE"
+
+stt_backend: "google"
+tts_backend: "sapi"   # opciones: "sapi" | "pyttsx3"
+tts_voice: "Spanish"
+tts_rate: 0           # SAPI: -10..10 (0 = normal)
+tts_volume: 100       # 0..100
+tts_device: "Speaker (Realtek(R) Audio)"  # exacto como te salió
+
+mic:
+  timeout: 6
+  phrase_time_limit: 10
+  adjust_noise_sec: 0.5
+
+nlu:
+  engine: "rules"
+skills:
+  enabled: ["time", "open_app", "search", "smalltalk"]
+
+openai:
+  api_key: "AIzaSyDa8o3_Wa86mz-Y48SfkSrz8AmNMkL8i8Y"
+  model: "gemini-2.0-flash"
+
+google_ai:
+  api_key: "AIzaSyDa8o3_Wa86mz-Y48SfkSrz8AmNMkL8i8Y"
+  model: "gemini-2.0-flash"
