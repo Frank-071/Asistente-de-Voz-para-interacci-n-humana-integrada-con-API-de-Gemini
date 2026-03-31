@@ -9,6 +9,8 @@ def reply(slots):
         "¿Qué hace una abeja en el gimnasio? ¡Zum-ba!",
         "¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.",
         "¿Cuál es el colmo de un Alquimista? Que se le oxide el conocimiento."
+        "¿Qué le dice un ganso a una gansa? ¡Vengansa!"
+        "¡Camarero! Hay una mosca en mi sopa. No se preocupe, la araña que está en el pan se encargará de ella."
     ]
 
     if "chiste" in query:

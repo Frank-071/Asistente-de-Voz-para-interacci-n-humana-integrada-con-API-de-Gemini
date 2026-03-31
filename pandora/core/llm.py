@@ -38,6 +38,7 @@ def ask_llm(text: str) -> str:
                 temperature=0.7 # Un toque de creatividad sin perder precisión
             )
         )
+        # La respuesta ya viene limpia sin formato Markdown, gracias a las instrucciones del sistema
         return response.text.strip()
     except Exception as e:
         print(f"DEBUG - Error de Gemini: {e}")
